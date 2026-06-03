@@ -1,0 +1,6 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+zigpy>=1.5.1
+zigpy-znp>=0.13.0
+psutil>=5.9.0
